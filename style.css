@@ -1,0 +1,14 @@
+body{
+text-align: center;
+background-color: aqua;
+}
+input{
+    background-color: aquamarine;
+    border-width: 0px;
+    border-radius: 5px;
+}
+button{
+    background-color: aquamarine;
+    border-width: 0px;
+    border-radius: 5px;
+}
